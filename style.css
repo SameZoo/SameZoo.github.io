@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body{
+    background-image: url("bg.jpg");
+}
+#center{
+    text-align: center;
+}
+#text{
+    text-shadow: 10px -10px silver;
+}
